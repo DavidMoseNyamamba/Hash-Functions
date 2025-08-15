@@ -1,0 +1,3 @@
+This is a sample text file for testing hash functions.
+It contains some text content to demonstrate file hashing capabilities.
+Hash functions are essential for data integrity and security applications.
